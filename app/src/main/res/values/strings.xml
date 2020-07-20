@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FavPlaces</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map">MapActivity</string>
+
+    <string-array name="mapViews">
+
+        <item>NORMAL</item>
+        <item>HYBRID</item>
+        <item>SATELLITE</item>
+        <item>TERRAIN</item>
+    </string-array>
+    <string-array name="nearby">
+        <item>Please Select</item>
+        <item>Restaurant</item>
+        <item>Museum</item>
+        <item>Cafe</item>
+    </string-array>
+    <string name="title_activity_update_favorite_place">Map</string>
+</resources>
